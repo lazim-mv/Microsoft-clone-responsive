@@ -110,6 +110,12 @@ category-section a{
     font-weight: 400;
 }
 
+#social-1 button > i {
+    font-size: 13px;
+    color: black;
+    letter-spacing: 1px;
+}
+
 /* Footer */
 
 .footer-h6{
