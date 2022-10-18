@@ -1,0 +1,81 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    box-sizing: border-box;    
+    overflow-x: hidden;
+}
+
+h4{
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+
+
+.icon-head{
+    cursor: pointer;
+    height: 18px;
+    width: 16px;
+    /* padding: 5px 10px 5px 5px; */
+}
+
+.my-nav-button{
+    border: none;
+    background-color: white;
+    
+}
+
+.image{
+    /* width: 100%;
+    height: 90vh; */
+    background-size: cover;
+    background-position: center;
+
+}
+
+.btn-shop-now{
+    background-color: #0067b8;
+    color: #ffffff;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 10px 12px 10px 12px;
+    border: 2px;
+}
+
+.btn-shop-now1{
+    background-color: darkgray;
+    width: 156px;
+    border: none;
+}
+
+.bck-to-top{
+
+}
+
+/* .ad-image{
+    width: 246px;
+    height: 132px;
+    padding-bottom: 5px;
+    background-size: contain;
+} */
+
+section{
+    overflow-x: hidden;
+}
+
+
+.image-text1{
+    width: 315px;
+    height: 237px;
+    background-color: white;
+    left: 15%;
+    padding: 31px;
+}
+
+.edge-ad{
+    overflow: hidden;
+}
